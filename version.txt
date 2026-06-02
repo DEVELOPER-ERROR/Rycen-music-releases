@@ -1,4 +1,4 @@
-1.0.6
+1.0.5
 [NEW] Daily Mix(Play random song from your played history)
 [NEW] Refresh trending songs
 [NEW] Search Lyrics online(automatically show this button in lyrics tab when no lyrics found for current song)
