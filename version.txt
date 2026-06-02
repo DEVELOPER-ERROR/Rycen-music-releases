@@ -1,1 +1,27 @@
 1.0.5
+[NEW] Daily Mix(Play random song from your played history)
+[NEW] Refresh trending songs
+[NEW] Search Lyrics online(automatically show this button in lyrics tab when no lyrics found for current song)
+[NEW] Exit app(Exit the without worrying about background consumption)
+[NEW] Quick access in Settings
+[NEW] Visualizer editor in Settings(Edit it's Colour, Speed and Width)
+[NEW] Low data mode(uses less internet to play songs)
+[NEW] Battery Saver mode(disables preloading and Automatically starts low data mode)
+[NEW] Repair download if something went wrong from Settings
+[NEW] Smart WIFI mode(automatically downloads favorites and most played song if wifi connected)
+[NEW] Feature Hub(Mode & Activity queue, Listening party, Driving mode and Analytics & stats export)
+[NEW] Data Saver mode
+[NEW] Forgotten favorites(Songs that you haven't played since 90 days after adding them in favorites)
+[NEW] Voice search in Search bar
+[NEW] Search by singing in search bar
+[NEW] Sharing via Qr code added.
+[NEW] Parallel Downloading upto 3 songs in playlist added(less lag while downloading)
+[NEW] Search bar in history added
+[NEW] Locally decoupled Listening Stats & Spotify-like Wrapped(Persistent tracking SQLite database logging streaks, moods, completion rates, and favorite times of day with animated Wrapped story cards carousel)
+[NEW] Smart Cache diagnostic telemetry dashboard in Settings(Real-time telemetry gauges, hit/miss rate tracking, customizable size limits, and selective clears protecting favorites)
+[NEW] Player Gesture controls artwork overlay(Horizontal and vertical swipe actions with accidental displacement/velocity thresholds, double-tap floating like heart animation, and glassmorphic quick tools menu)
+[NEW] Reactive dynamic cover art theme engine(Extracts primary/secondary palettes from cover art to build animated highlights and AMOLED background gradients)
+[NEW] Animated Onboarding guide walkthrough(Interactive guide for first boot or update tutorials, also triggerable from Settings)
+[EDIT] More presets added in EQ
+[EDIT] EQ will now work instantly
+#METADATA:{"arm64-v8a":{"url":"https://github.com/DEVELOPER-ERROR/Rycen-music-releases/releases/download/v1.0.5/app-arm64-v8a-release.apk","size":49263404,"sha256":"03d9a7e849bc9b1af2e8ed211dece4c40e0de04186343d72525de7d188f781ee"},"armeabi-v7a":{"url":"https://github.com/DEVELOPER-ERROR/Rycen-music-releases/releases/download/v1.0.5/app-armeabi-v7a-release.apk","size":45377250,"sha256":"695b2608d95365b9b17d27193f94b9246b430aad946f4983440358ad91bf457b"},"x86_64":{"url":"https://github.com/DEVELOPER-ERROR/Rycen-music-releases/releases/download/v1.0.5/app-x86_64-release.apk","size":51365509,"sha256":"35997399ca9a38610f9ff9e5bd1b9b0c5501c9af7fc5232821184e5633403976"},"universal":{"url":"https://github.com/DEVELOPER-ERROR/Rycen-music-releases/releases/download/v1.0.5/app-arm64-v8a-release.apk","size":49263404,"sha256":"03d9a7e849bc9b1af2e8ed211dece4c40e0de04186343d72525de7d188f781ee"}}
