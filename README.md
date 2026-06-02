@@ -2,7 +2,7 @@
 
 # 🎵 Rycen Musics
 
-**A premium YouTube Music experience. Beautifully designed, powerfully smart.**
+**A premium Music experience. Beautifully designed, powerfully smart.**
 
 [![Version](https://img.shields.io/badge/Version-1.0.5-blueviolet?style=for-the-badge)](https://github.com/DEVELOPER-ERROR/Rycen-music-releases/releases)
 [![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://developer.android.com)
